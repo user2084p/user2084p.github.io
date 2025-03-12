@@ -13,7 +13,7 @@ const about = {
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://https://user2084p.github.io/.com',
+    github: 'https://https://user2084p.github.io/',
   },
 }
 
@@ -24,7 +24,7 @@ const projects = [
     name: 'Proyecto 1',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['QGIS', 'PYTHON', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -57,13 +57,14 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'R',
   'QGis',
   'ArcGis',
   'Python',
   'Earth Engine',
   'Imagenes Satelitales',
   'Git',
-  'Redux',
+  'Cartografía',
 ]
 
 const contact = {
