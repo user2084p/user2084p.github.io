@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://user2084p.github.io',
-  title: 'JS.',
+  title: 'USER2084.',
 }
 
 const about = {
@@ -13,7 +13,7 @@ const about = {
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://https://user2084p.github.io',
+    github: 'https://github.com/user2084p',
   },
 }
 
@@ -24,7 +24,7 @@ const projects = [
     name: 'Proyecto 1',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['QGIS', 'PYTHON', 'React'],
+    stack: ['QGIS', 'PYTHON', 'R'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -32,7 +32,7 @@ const projects = [
     name: 'Proyecto 2',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Earth Engine', 'QGIS', 'R'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -40,7 +40,7 @@ const projects = [
     name: 'Proyecto 3',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['LaTeX', 'Python', 'Copernicus', 'Sentinel-2'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -48,7 +48,7 @@ const projects = [
     name: 'Proyecto 4',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['', 'ALOHA', 'QGIS', 'MatLab'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
