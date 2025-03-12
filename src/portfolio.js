@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://user2084p.github.io/',
+  homepage: 'https://user2084p.github.io',
   title: 'JS.',
 }
 
@@ -13,7 +13,7 @@ const about = {
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://https://user2084p.github.io/',
+    github: 'https://https://user2084p.github.io',
   },
 }
 

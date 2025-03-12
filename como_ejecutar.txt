@@ -1,7 +1,0 @@
-necesitas 
-
-$env:NODE_OPTIONS="--openssl-legacy-provider"
-
-antes de ejecutar
-
-yarn start
